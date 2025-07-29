@@ -1,2 +1,3 @@
-# scrimba
-Scrimba
+# Scrimba
+
+- Learn Basic JavaScript
