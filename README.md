@@ -1,3 +1,3 @@
 # Scrimba
 
-- Learn Basic JavaScript
+- Learn Basic JavaScript 1-17
